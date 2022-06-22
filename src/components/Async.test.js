@@ -13,3 +13,8 @@ describe("Async component", () => {
     expect(listItemElements).not.toHaveLength(0);
   });
 });
+
+// learn more https://www.w3.org/TR/html-aria/#docconformance
+// jest
+// react testing library
+// react hooks testing library
